@@ -27,17 +27,7 @@
       <name>Test Project Site</name>
       <url>file:///tmp/maven-project-site</url>
     </site>
-            <repository>
-	      <id>nexus</id>
-	      <name>VK Technologies Releases Nexus Repository</name>
-	      <url>http://18.191.101.251:8081/repository/amazon-Release/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>VK Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.191.101.251:8081/repository/amazon-Snapshot/</url>
-	    </snapshotRepository>
+           
   </distributionManagement>
 
   <build>
